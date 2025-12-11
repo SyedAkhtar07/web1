@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.head{
+    padding: 25px;
+    text-align: center;
+}
+h1,ul,li{
+    display: inline;
+    
+}
+a{
+    color: gray;
+    font-variant: initial;
+}
+a:hover{
+    color: white;
+    cursor: pointer;
+}
+.dish{
+    border-style: solid;
+    border-color: rgb(167, 235, 7);
+    border-width: 2px;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+.img{
+     border-style: solid;
+    border-color: rgb(253, 12, 12);
+    border-width: 5px;
+    display: inline-block;
+    width: 220px;
+   
+    text-align: center;
+    margin: 20px;
+   
+}
+p{
+    color: black;
+}
+.contact{
+    text-align: center;
+    padding: 20px;
+}
+.bt{
+    width: 20%;
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+}
+.bt:hover{
+    cursor: pointer;
+}
+.mt{
+    background-color: black;
+    color: white;
+}
+.mt:hover{
+    cursor: pointer;
+}
+form{
+    margin: 10px;
+}
